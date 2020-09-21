@@ -36,7 +36,7 @@ namespace Ex_Excecoes.Entities
         public void Saque (double valor)
         {
             
-            if (Saldo < 0)
+            if (valor > Saldo)
             {
                 throw new DominioExcecao("Saldo insuficiente. ");
             }else if (valor > LimiteSaque)
