@@ -1,0 +1,13 @@
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.exe
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.deps.json
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.runtimeconfig.json
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.runtimeconfig.dev.json
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.dll
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\bin\Debug\netcoreapp3.1\Ex_Excecoes.pdb
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.csprojAssemblyReference.cache
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.AssemblyInfoInputs.cache
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.AssemblyInfo.cs
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.dll
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.pdb
+C:\Users\naiap\source\repos\Ex_Excecoes\Ex_Excecoes\obj\Debug\netcoreapp3.1\Ex_Excecoes.genruntimeconfig.cache
